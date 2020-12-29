@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rick and Morty</string>
+
+    <string name="login_error_msg" translatable="false">Não foi possível efetuar login</string>
+    <string name="main_welcome_msg" translatable="false">Essa é uma mensagem Hard Coded.. vou descer!!!</string>
+    <string name="login_button" translatable="false">Entrar</string>
+    <string name="login_forgot_password" translatable="false">Esqueci minha senha</string>
+    <string name="login_sign_up" translatable="false">Cadastre-se!</string>
+    <string name="login_email_hint" translatable="false">E-mail</string>
+    <string name="login_password_hint" translatable="false">Senha</string>
+    <string name="login_password_check_hint" translatable="false">Confirmar Senha</string>
+    <string name="login_signup_button" translatable="false">Cadastrar</string>
+    <string name="forgot_password_button" translatable="false">Enviar</string>
+    <string name="forgot_error" translatable="false">Não foi possível enviar o e-mail para redefinição de senha. Por favor verifique seus dados.</string>
+    <string name="signup_error">Não foi possível efetuar seu cadastro. Por favor verifique seus dados.</string>
+
+</resources>

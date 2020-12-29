@@ -1,0 +1,20 @@
+<resources>
+    <style name="Widget.MaterialComponents.Button.OutlinedButton.PrimaryButton">
+        <item name="cornerRadius">8dp</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="backgroundTint">?attr/colorAccent</item>
+
+        <item name="strokeColor">?attr/colorAccent</item>
+    </style>
+
+    <style name="Widget.MaterialComponents.Button.OutlinedButton.SecondaryButton">
+        <item name="cornerRadius">8dp</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="backgroundTint">?attr/colorPrimaryVariant</item>
+        <item name="strokeColor">?attr/colorOnSecondary</item>
+        <item name="android:textColor">?attr/colorOnSecondary</item>
+    </style>
+
+</resources>

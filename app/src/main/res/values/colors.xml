@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_primary_color">#C9D200</color>
+    <color name="brand_secondary_color">#7DB61C</color>
+    <color name="brand_tertiary_color">#00AE9D</color>
+    <color name="brand_dark_color">#003641</color>
+    <color name="brand_dark_purble">#49479D</color>
+
+    <color name="layout_primary_color">#C9D200</color>
+    <color name="layout_secondary_color">#7AC91F</color>
+    <color name="layout_tertiary_color">#00AE9D</color>
+    <color name="layout_dark_color">#003641</color>
+    <color name="layout_purple">#5D5ADC</color>
+
+    <color name="lightbase_dark_gray">#01333E</color>
+    <color name="lightbase_blue_gray">#758887</color>
+    <color name="lightbase_lighter_gray">#C4D5D5</color>
+    <color name="lightbase_light_color">#F1F3F7</color>
+    <color name="lightbase_sunny_light">#FFFFFF</color>
+
+    <color name="denotive_error">#F7406C</color>
+
+    <color name="darkbase_dark">#1F221D</color>
+</resources>

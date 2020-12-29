@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight">
+        <item name="colorAccent">@color/brand_dark_color</item>
+
+        <item name="colorPrimary">@color/lightbase_sunny_light</item>
+        <item name="colorPrimaryVariant">@color/lightbase_lighter_gray</item>
+        <item name="colorOnPrimary">@color/lightbase_dark_gray</item>
+        <item name="colorPrimaryDark">@color/brand_dark_color</item>
+
+        <item name="colorSecondary">@color/layout_secondary_color</item>
+        <item name="colorSecondaryVariant">@color/brand_secondary_color</item>
+        <item name="colorOnSecondary">@color/darkbase_dark</item>
+
+        <item name="colorSurface">@android:color/white</item>
+        <item name="colorOnSurface">@color/lightbase_dark_gray</item>
+
+        <item name="colorPrimarySurface">@color/brand_dark_color</item>
+        <item name="colorOnPrimarySurface">@android:color/white</item>
+
+        <item name="backgroundColor">@color/lightbase_sunny_light</item>
+        <item name="colorOnBackground">@color/lightbase_dark_gray</item>
+
+        <item name="colorError">@color/denotive_error</item>
+        <item name="colorOnError">@color/lightbase_dark_gray</item>
+
+        <item name="primaryButtonStyle">@style/Widget.MaterialComponents.Button.OutlinedButton.PrimaryButton</item>
+        <item name="secondaryButtonStyle">@style/Widget.MaterialComponents.Button.OutlinedButton.SecondaryButton</item>
+
+        <item name="textAppearanceButton">@style/TextAppearance.MaterialComponents.Button.BaseButton</item>
+
+        <item name="corBgComponentesGraficos">@color/denotive_error</item>
+    </style>
+
+    <style name="AppTheme.Dark">
+        <item name="backgroundColor">#3E3E3E</item>
+    </style>
+</resources>
